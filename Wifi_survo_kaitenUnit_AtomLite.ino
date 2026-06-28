@@ -15,8 +15,8 @@ Servo myServo;
 // Wi-Fi設定
 // ==================================================
 
-// パスワード（8文字以上）
-const char* password = "12345678";
+// パスワード（8文字以上）変えてください。
+const char* password = "00000000";
 
 // SSID（Wi-Fi名）はMACアドレスから自動生成
 String ssidName;
